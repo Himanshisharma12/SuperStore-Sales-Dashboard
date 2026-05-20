@@ -30,4 +30,5 @@ This project showcases an interactive Power BI dashboard analyzing Super Store s
 - SuperStore Sales DataSet.xlsx – Source data
 - .png images – Key visuals from the dashboard
 ## 📸 Preview
-![SuperStore-Sales-Dashboard]
+![SuperStore-Sales-Dashboard](https://github.com/Himanshisharma12/SuperStore-Sales-Dashboard/blob/main/Img%201.png)
+![SuperStore-Sales-Dashboard](https://github.com/Himanshisharma12/SuperStore-Sales-Dashboard/blob/main/Img%202.png)
